@@ -5,8 +5,13 @@
 **Added:**
 - bpk-theming:
   - New web theming utility, see https://backpack.github.io/components/utilities/theming
+  
 - bpk-component-theme-toggle:
   - New component to help switching themes on the fly
+
+- bpk-component-banner-alert:
+  - New `dismissable` configuration. See https://backpack.github.io/components/web/banner-alerts
+  - New animations available when `show` is toggled. See https://backpack.github.io/components/web/banner-alerts
 
 
 ## 2017-11-23 - Fix accidental breaking change in web spinners
