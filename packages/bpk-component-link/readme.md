@@ -46,7 +46,8 @@ export default () => (
 
 For both BpkLink and BpkLinkButton the following theme attributes are required.
 
-* `linkTextColor`
-* `linkHoverColor`
 * `linkActiveColor`
+* `linkColor`
+* `linkHoverColor`
+* `linkTextColor`
 * `linkVisitedColor`
